@@ -1,5 +1,5 @@
 let lanchonete = ["Risolios", "Quibe", "Pastel de Queijo", "Patel de Carne", "Pastel de pizza", "Esfirra", "X-Salada"]
-let valores = [8, 6, 10, 10, 12, 16, 24]
+let valores = [8, 6, 10, 10, 13, 16, 24]
 contador = 0;
 while (contador < lanchonete.length){
     let c2 = contador + 1
