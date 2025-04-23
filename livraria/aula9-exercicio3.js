@@ -1,4 +1,4 @@
-const livros = require("./livros.json");
+const livros = require("../livros.json");
 
 function mostralivros(){
     livros.forEach((livro) => {
@@ -44,5 +44,5 @@ function criarArquivo(){
 }
 
 //criarArquivo();
-
+//eloah
 mostralivros();
